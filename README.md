@@ -26,6 +26,8 @@ Emphasis is on good programming style and the built-in facilities of the Java la
 
 * Running GUI from Command Line:
 ```
+ Download javafx-sdk-15: https://gluonhq.com/products/javafx/
+ 
  VM argument
       --module-path {PATH_TO_JAVAFX} --add-modules javafx.graphics,
       javafx.controls,javafx.fxml,javafx.media
